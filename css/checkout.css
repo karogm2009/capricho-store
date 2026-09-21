@@ -1,0 +1,1 @@
+.checkout-layout{display:grid;grid-template-columns:1.25fr .75fr;gap:25px}.panel{background:#fff;border-radius:var(--radius);padding:24px}.order-items{display:grid;gap:8px}.order-item{display:flex;justify-content:space-between;gap:10px}@media(max-width:800px){.checkout-layout{grid-template-columns:1fr}}
